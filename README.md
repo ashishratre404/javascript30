@@ -5,3 +5,4 @@
 * Day - 02 : JavaScript and CSS Clock
 * Day - 03 : Update CSS variables with JavaScript
 * Day - 04 : Array methods day-1
+* Day - 05 : Flex Panel Gallery
