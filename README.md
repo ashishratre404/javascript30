@@ -7,3 +7,4 @@
 * Day - 04 : Array methods day-1
 * Day - 05 : Flex Panel Gallery
 * Day - 06 : Search Bar
+* Day - 07 : Array methods day-2
