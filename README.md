@@ -9,3 +9,5 @@
 * Day - 06 : Search Bar
 * Day - 07 : Array methods day-2
 * Day - 08 : HTML5 Canvas
+* Day - 09 : Dev Tools
+* Day - 10 : Hold Shift Checkbox
